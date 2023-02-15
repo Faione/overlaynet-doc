@@ -1,0 +1,9 @@
+[book]
+authors = ["fhl"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Gluenet Overlay Net"
+
+[output.html]
+git-repository-url = "https://gitee.com/cilium-exporter/overlaydoc"
