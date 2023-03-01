@@ -10,7 +10,6 @@
 # 环境搭建
 
 - [cilium](./02_env/cilium.md)
-  - [使用helm搭建cilium](./02_env/cilium/helm.md)
 
 # 监控方案
 
