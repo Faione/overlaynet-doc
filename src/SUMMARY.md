@@ -10,6 +10,9 @@
 ### 环境搭建
 
 * [cilium](./02_env/cilium.md)
+  * [helm安装cilium](./02_env/cilium/install_by_helm.md)
+* [linkerd](./02_env/linkerd.md)
+  * [helm安装linkerd](./02_env/linkerd/install_by_helm.md)
 
 ###  监控方案
 
